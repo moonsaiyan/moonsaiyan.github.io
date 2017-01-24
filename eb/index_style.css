@@ -1,0 +1,23 @@
+body
+{
+	background-image: url("images/lone_tree.jpg");
+	background-size: 100%;
+	background-color: #cccccc;
+}
+
+.profile-box
+{
+	background-image: url("images/mono_border.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	float: right;
+	padding: 5%;
+	width: 40%;
+	height: 60%;
+}
+
+.profile-title
+{
+	font-family: "Times New Roman";
+	f
+}
