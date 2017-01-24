@@ -1,0 +1,47 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #80FF80;
+	font-family: Arial;
+}
+#navbot a:active{
+	background: #F4A460;
+}
+h1#owner{
+	text-align: center;
+}
+#main{
+	width: 90%;
+	height: 425px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top:0px;
+	padding-left: 25px;
+	background-color: white;
+}
+#left{
+	width: 50%;
+	margin-top: 15px;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	border-right: 5px solid gray;
+	font-family:Arial;
+	float:left;
+}
+#right{
+	width: 40%;
+	margin-top: 15px;
+	padding-top:10px;
+	padding-left: 35px;
+	padding-bottom: 10px;
+	float:left;
+}
+#right img{
+	width: 150px;
+	height:150px;
+	border: 5px solid white;
+	border-radius: 10px;
+}
