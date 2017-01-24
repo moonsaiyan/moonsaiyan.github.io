@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Raleway');
+
+header, footer {
+	background-color: #ffcccc;
+	height: 50px;
+	width: screen.width;
+}
+
+table {
+	background-color: white;
+}
+
+tr{
+	 padding: 15px;
+}
+
+div {
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	text-align: center;
+	color: #ff8080;
+}
+
+p1, a, p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	align: center;
+	font-color: #00b300;
+}
+
+img {
+
+}
